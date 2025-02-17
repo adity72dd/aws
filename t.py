@@ -8,7 +8,7 @@ OWNER_USERNAME = "Riyahacksyt"  # Replace with your Telegram username (without @
 
 is_attack_running = False  # Track if an attack is running
 max_duration = 300  # Max attack duration in seconds
-daily_attack_limit = 10  # Max attacks per user per day
+daily_attack_limit = 30  # Max attacks per user per day
 user_attacks = {}  # Store user attack counts {user_id: remaining_attacks}
 
 # Start Command
