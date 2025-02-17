@@ -3,7 +3,7 @@ import asyncio
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '7246047709:AAElzJRbgodpAq62ql3aSF2CVXkMbHqdzvA'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '7606440143:AAEpYpHK60PY8vQ3s6HpXDfVI_rb55ayA2M'  # Replace with your bot token
 OWNER_USERNAME = "Riyahacksyt"  # Replace with your Telegram username (without @)
 
 is_attack_running = False  # Track if an attack is running
